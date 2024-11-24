@@ -1,0 +1,15 @@
+myenv/
+
+build/
+
+dist/
+
+__pycache__
+
+
+__pycache__/
+
+
+.env
+
+LLM_Creation_using_Langchain_Expression_Language.egg-info/
